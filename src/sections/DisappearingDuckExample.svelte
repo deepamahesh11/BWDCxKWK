@@ -59,7 +59,7 @@
                         class="duck-img"
                         src="duck.png"
                         alt="KWK rubber duck!"
-                        in:fly={{ y: 200, duration: 2000 }}
+                        in:fly={{ y: 300, duration: 2000 }}
                         out:fade
                     />
                 {/if}
