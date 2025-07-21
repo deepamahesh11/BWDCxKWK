@@ -17,11 +17,11 @@
     border-radius: 2rem;
     box-shadow: 16px 16px #58144a;
     text-align: center;
-    font-family: 'Inter', sans-serif;
+    font-family: "Lucida Console", "Courier New", monospace;
   }
 
   h1 {
-    font-family: Cambria, Georgia, serif;
+    font-family: "Lucida Console", "Courier New", monospace;
     font-size: 3rem;
     margin: 0;
     color: #471238;

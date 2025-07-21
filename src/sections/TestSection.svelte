@@ -58,7 +58,7 @@
                     <img
                         class="deepaTalking"
                         src="DeepaTalking.gif"
-                        alt="KWK rubber duck!"
+                        alt="Deepa is talking"
                         in:fly={{ y: 200, duration: 2000 }}
                         out:fade
                     />

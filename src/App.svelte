@@ -9,10 +9,13 @@
   import IntersectionObserverSectionCard from "./sections/IntersectionObserverSectionCard.svelte";
   import IntersectionObserverListExample from "./sections/IntersectionObserverListExample.svelte";
   import TestSection from "./sections/TestSection.svelte";
+  import DeepaIntro from "./sections/DeepaIntro.svelte";
 </script>
 
 <main>
   <TitleSection />
+  <div style= "height: 30vh; background-color: #370f28;"></div>
+  <DeepaIntro />
   <RightAlignedExample />
   <LeftAlignedExample />
   <ImageExample />
