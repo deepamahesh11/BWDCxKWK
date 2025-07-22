@@ -11,6 +11,7 @@
   import IntersectionObserverListExample from "./sections/IntersectionObserverListExample.svelte";
   import TestSection from "./sections/TestSection.svelte";
   import DeepaIntro from "./sections/DeepaIntro.svelte";
+  import EndSection from "./sections/EndSection.svelte";
 </script>
 
 <main>
@@ -20,14 +21,15 @@
   <div style= "height: 30vh; background-color: #370f28;"></div>
   <PopulationsStatesCalifornia />
   <PopulationsStatesGeorgia/>
-  <LeftAlignedExample />
+  <!-- <LeftAlignedExample />
   <ImageExample />
 
   <IntersectionObserverSectionCard />
   <InteresectionObserverBasicExample />
   <IntersectionObserverAlertExample />
   <DisappearingDuckExample />
-  <IntersectionObserverListExample />
+  <IntersectionObserverListExample /> -->
 
   <TestSection />
+  <EndSection />
 </main>
