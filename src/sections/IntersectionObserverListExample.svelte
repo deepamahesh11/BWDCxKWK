@@ -128,7 +128,7 @@
     }
 
     .list-item {
-        background-color: #e3ff00;
+        background-color: #0066ff;
         color: #8427c9;
         border: solid #8427c9 3px;
         border-radius: 20px;

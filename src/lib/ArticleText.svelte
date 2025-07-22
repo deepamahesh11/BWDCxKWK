@@ -13,7 +13,7 @@
         margin: 50vh auto;
         width: 50%;
         background-color: #947b8d;
-        color: #007052;
+        color: black;
         border: solid #8427c9 3px;
         border-radius: 20px;
         padding: 20px;
