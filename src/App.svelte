@@ -1,6 +1,7 @@
 <script>
   import LeftAlignedExample from "./sections/LeftAlignedExample.svelte";
-  import RightAlignedExample from "./sections/RightAlignedExample.svelte";
+  import PopulationsStatesGeorgia from "./sections/PopulationsStatesGeorgia.svelte";
+  import PopulationsStatesCalifornia from "./sections/PopulationsStatesCalifornia.svelte";
   import ImageExample from "./sections/ImageExample.svelte";
   import TitleSection from "./sections/TitleSection.svelte";
   import InteresectionObserverBasicExample from "./sections/InteresectionObserverBasicExample.svelte";
@@ -16,7 +17,9 @@
   <TitleSection />
   <div style= "height: 30vh; background-color: #370f28;"></div>
   <DeepaIntro />
-  <RightAlignedExample />
+  <div style= "height: 30vh; background-color: #370f28;"></div>
+  <PopulationsStatesCalifornia />
+  <PopulationsStatesGeorgia/>
   <LeftAlignedExample />
   <ImageExample />
 

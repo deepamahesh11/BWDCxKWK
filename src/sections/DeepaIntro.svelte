@@ -76,7 +76,6 @@
 </section>
 
 <style>
-  /* Scoped hiding of pink boxes only inside observer-hidden container */
  :global(.observer-hidden) :global(.article-text) {
     background: transparent !important;
     border: none !important;
