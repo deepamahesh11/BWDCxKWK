@@ -1,9 +1,8 @@
-# KWK Scrollytelling template
+# Deepa Mahesh's KWK Scrollytelling Project
 
-This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
 
 ## Demo
-See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/)!
+See a live demo of the page [here](https://deepamahesh11.github.io/BWDCxKWK/)!
 
 ## Recommended IDE Setup
 
@@ -20,3 +19,17 @@ Run `npm install` and then `npm run dev` to spin up the project locally. Then, s
 
 ## Credit
 Repo created using vite (`npm create vite@6`)
+
+##use of AI 
+In DeepIntro.svelte I was struggling to make the article-text css dissapear as I wanted it to be invisible (so it would act as a marker for my text bubbles to appear). I was struggling on how to make it invisible because everything I tried did not work. I used AI as guidance to figure out to use the command "!important" and ":global(___)"
+<style>
+ :global(.observer-hidden) :global(.article-text) {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    color: transparent !important;
+    margin: 10vh auto !important; 
+    padding: 0 !important;
+    pointer-events: none;
+  }
+</style>
