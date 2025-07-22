@@ -1,9 +1,8 @@
-# KWK Scrollytelling template
+# Deepa Mahesh's KWK Scrollytelling Project
 
-This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
 
 ## Demo
-See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/)!
+See a live demo of the page [here](https://deepamahesh11.github.io/BWDCxKWK/)!
 
 ## Recommended IDE Setup
 
